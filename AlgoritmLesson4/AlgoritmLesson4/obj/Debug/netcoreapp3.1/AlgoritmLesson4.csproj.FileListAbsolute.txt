@@ -1,0 +1,13 @@
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\obj\Debug\netcoreapp3.1\AlgoritmLesson4.csprojAssemblyReference.cache
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\obj\Debug\netcoreapp3.1\AlgoritmLesson4.AssemblyInfoInputs.cache
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\obj\Debug\netcoreapp3.1\AlgoritmLesson4.AssemblyInfo.cs
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\obj\Debug\netcoreapp3.1\AlgoritmLesson4.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\bin\Debug\netcoreapp3.1\AlgoritmLesson4.exe
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\bin\Debug\netcoreapp3.1\AlgoritmLesson4.deps.json
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\bin\Debug\netcoreapp3.1\AlgoritmLesson4.runtimeconfig.json
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\bin\Debug\netcoreapp3.1\AlgoritmLesson4.runtimeconfig.dev.json
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\bin\Debug\netcoreapp3.1\AlgoritmLesson4.dll
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\bin\Debug\netcoreapp3.1\AlgoritmLesson4.pdb
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\obj\Debug\netcoreapp3.1\AlgoritmLesson4.dll
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\obj\Debug\netcoreapp3.1\AlgoritmLesson4.pdb
+C:\Users\Dimon\source\repos\AlgoritmLesson4\AlgoritmLesson4\obj\Debug\netcoreapp3.1\AlgoritmLesson4.genruntimeconfig.cache

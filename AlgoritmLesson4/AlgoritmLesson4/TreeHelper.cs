@@ -8,6 +8,7 @@ namespace AlgoritmLesson4
     {
         public static NodeInfo[] GetTreeLine(Itree tree)
         {
+            
             var bufer = new Queue<NodeInfo>();
             var returnArray = new List<NodeInfo>();
             var root = new NodeInfo() { Node = tree.GetRoot() };
